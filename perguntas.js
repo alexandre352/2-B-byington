@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'dragon ball',
+    'quem é o pai de goku em dbz?',
+    'bardock um sayajin de elite do exercito do freeza'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'naruto',
+    'como o primeiro hokage volta na guerra ninja?',
+    'orochimaru usa o edo tensei'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'hunter x hunter',
+    'quem muda a visão de mundo do meruem?',
+    'komugi, apos vencer ele diversas vezes'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'one piece',
+    'quem é o primeiro vilão de one piece?',
+    'alvida lider dos piratas alvida'
 )
